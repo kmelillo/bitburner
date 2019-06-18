@@ -24,6 +24,7 @@
                       your purchased servers to run that script name against that target.
                       When running this, it will kill any processes already running on your
                       pservers, then send the new script to the pservers and then execute.
+                      This automatically calculates the number of threads needed.
 
 **smartHack.js:** This is my attempt at a smart hacking script.  It determines the security 
                   level and compares it against the threshhold.  It will weaken if the 
