@@ -18,7 +18,11 @@
 **smartHack.js:** This is my attempt at a smart hacking script.  It determines the security 
                   level and compares it against the threshhold.  It will weaken if the 
                   security level is higher.  Then it determines if the money is 50% of the 
-                  max.  If not, it will grow.  Finally, it hacks.
+                  max.  If not, it will grow.  Finally, it hacks.  It takes one argument 
+                  which is the server to hack.  This is automatically passed to it, should
+                  you use it along with updateServers.
 
 **leechHack.js:** This is the same as the above smartHack, only it has been overridden to 
-                  ignore the money on the server, and will always weaken, or hack.
+                  ignore the money on the server, and will always weaken, or hack.  This
+                  takes one argument which is the server to hack.  This is automatically 
+                  passed to it, should you use it with updateServers.
