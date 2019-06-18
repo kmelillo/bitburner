@@ -1,4 +1,14 @@
 # This is a collection of my current BitBurner scripts.
+  Please check out my scripts, and feel free to download them.  If you find them useful, 
+  drop me a note!  Please check out [BitBurner HERE](https://danielyxie.github.io/bitburner)  
+
+## A note on Automation
+  I currently do not really like EVERYTHING being automated.  There are plenty of available
+  BITBURNER script repositories, and browsing these, I was able to learn enough to write some
+  of my own scripts, as well as modify others.  I did not want to create bots that do 
+  it all for me.  I wanted a way to create a smart script, and then push it out to all
+  servers.  I wanted to automate the buying of servers based on money.  Not sure where this
+  adventure will take me, but I am loving this game!
 
 **mapServer.js** - This takes NO arguments.  Run it and it will map servers to a text file.
 
